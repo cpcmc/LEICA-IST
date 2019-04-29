@@ -1,5 +1,5 @@
 # LP - Lógica para Programação
 
-- **Binary Puzzle Solver**
+## Binary Puzzle Solver
 - **Language:** Prolog
 - **Grade:** xx/20
