@@ -1,3 +1,5 @@
+#92440    Cristiano Primitivo Constantino Morais Clemente
+
 def checkifinst(lista, tipo):
     """lista x tipo -> booleano"""
     return all(isinstance(x, tipo) for x in lista)                              	# todos os elementos da lista sao de um certo tipo? se sim: devolve True
