@@ -2,4 +2,4 @@
 
 ## Binary Puzzle Solver
 - Language: Prolog
-- Grade: **xx**/20
+- Grade: **19,8**/20
