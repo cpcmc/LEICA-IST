@@ -2,4 +2,8 @@
 
 ## Room Booking System
 - Language: C
+- Grade: **19,8**/20
+
+## Contact Manager System
+- Language: C
 - Grade: **xx**/20
