@@ -6,4 +6,4 @@
 
 ## Contact Manager System
 - Language: C
-- Grade: **xx**/20
+- Grade: **~17**/20
