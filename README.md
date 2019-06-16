@@ -8,7 +8,7 @@
 * Introduction to Computer Architecture (Assembly)
   - [Gorillas](/gorillas): **~18,25**/20
 * Logic for Programming (Prolog)
-  - [Binary Puzzle Solver](/hello-quantum-1): **19,80**/20
+  - [Binary Puzzle Solver](/binary-puzzle-solver): **19,80**/20
 * Introduction to Algorithms and Data Structures (C)
   - [Room Booking System](/room-booking-system): **19,80**/20
   - [Contact Manager System](/contact-manager-system): **19,30**/20
