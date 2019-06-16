@@ -1,16 +1,17 @@
-# LEICA-IST
+# Computer Science and Engineering @ IST
+## Cristiano Clemente
 
 ### 1st Year
-- [Foundations of Programming](/1-FP) (Python)
-  - Hello Quantum 1: **18,81**/20
-  - Hello Quantum 2: **18,00**/20
-* [Introduction to Computer Architecture](/1-IAC) (Assembly)
-  - Gorillas: **~18,25**/20
-* [Logic for Programming](/1-LP) (Prolog)
-  - Binary Puzzle Solver: **19,80**/20
-* [Introduction to Algorithms and Data Structures](/1-IAED) (C)
-  - Room Booking System: **19,80**/20
-  - Contact Manager System: **19,30**/20
+- Foundations of Programming (Python)
+  - [Hello Quantum 1](/hello-quantum-1): **18,81**/20
+  - [Hello Quantum 2](/hello-quantum-2): **18,00**/20
+* Introduction to Computer Architecture (Assembly)
+  - [Gorillas](/gorillas): **~18,25**/20
+* Logic for Programming (Prolog)
+  - [Binary Puzzle Solver](/hello-quantum-1): **19,80**/20
+* Introduction to Algorithms and Data Structures (C)
+  - [Room Booking System](/room-booking-system): **19,80**/20
+  - [Contact Manager System](/contact-manager-system): **19,30**/20
 
 ### 2nd Year
 * [Object Oriented Programming](/2-PO) (Java)
