@@ -9,7 +9,7 @@
 | 1 | Introduction to Algorithms and Data Structures | C | [Room Booking System](/room-booking-system) | **19,80** |
 | 1 | Introduction to Algorithms and Data Structures | C | [Contact Manager System](/contact-manager-system) | **19,30** |
 | 2 | Object Oriented Programming | Java | [Library Manager](/library-manager) | **15,34** |
-| 2 | Operating Systems | Java | [Tecnico File System](/tecnico-fs) | **--,--** |
+| 2 | Operating Systems | Java | [Técnico File System](/tecnico-fs) | **--,--** |
 | 2 | Analysis and Synthesis of Algorithms | C | --- | **--,--** |
 | 2 | Human-Computer Interaction | HTML/CSS/JS/JQuery | --- | **--,--** |
 | 3 | Artificial Intelligence | Python | --- | **--,--** |
