@@ -2,8 +2,6 @@
 
 ## Data de entrega: 17 de Maio de 2019, às 17h59m
 
-## LOG alterações
-
 ## 1. Introdução
 
 O objectivo deste projeto é o desenvolvimento, em linguagem C, de um sistema de gestão de contactos. A interacção com o programa deverá ocorrer através de um conjunto de linhas compostas por uma letra (comando) e um número de argumentos dependente do comando a executar. Os possíveis comandos são listados na tabela seguinte e indicam as operações a executar.
