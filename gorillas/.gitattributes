@@ -1,5 +1,2 @@
-# Example of a `.gitattributes` file which reclassifies `.as` files as P3 Assembly:
-*.as linguist-language=P3 Assembly
-
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
+# Example of a `.gitattributes` file which reclassifies `.as` files as Assembly:
+*.as linguist-language=Assembly
