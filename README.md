@@ -11,6 +11,6 @@
 | 2 | Object Oriented Programming | Java | [Library Manager](/library-manager) | **16,50** |
 | 2 | Operating Systems | C | [Técnico File System](/tecnico-fs) | **16,81** |
 | 2 | Analysis and Synthesis of Algorithms | C | --- | **--,--** |
-| 2 | Human-Computer Interaction | HTML/CSS/JS/JQuery | --- | **--,--** |
+| 2 | Human-Computer Interaction | --- | --- | **--,--** |
 | 3 | Artificial Intelligence | Python | --- | **--,--** |
 | 3 | Database Systems | --- | --- | **--,--** |
