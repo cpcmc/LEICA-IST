@@ -10,7 +10,7 @@
 | 1 | Introduction to Algorithms and Data Structures | C | [Contact Manager System](/contact-manager-system) | **19,30** |
 | 2 | Object Oriented Programming | Java | [Library Manager](/library-manager) | **16,50** |
 | 2 | Operating Systems | C | [Técnico File System](/tecnico-fs) | **16,81** |
-| 2 | Analysis and Synthesis of Algorithms | C | --- | **--,--** |
+| 2 | Analysis and Synthesis of Algorithms | C | [Graph Stuff](/graphs) | **17,15** |
 | 2 | Human-Computer Interaction | --- | --- | **--,--** |
 | 3 | Artificial Intelligence | Python | --- | **--,--** |
 | 3 | Database Systems | --- | --- | **--,--** |
