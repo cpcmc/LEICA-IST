@@ -12,7 +12,7 @@
 | 2 | Operating Systems | C | [Técnico File System](/tecnico-fs) |
 | 2 | Theory of Computation | Turing Machine | [Universal Turing Machine](/universal-turing-machine) |
 | 2 | Analysis and Synthesis of Algorithms | C | [Grades Predictor](/grades-predictor) |
-| 2 | Analysis and Synthesis of Algorithms | C | [Citizens Supermarkets](/citizens-supermarkets) |
+| 2 | Analysis and Synthesis of Algorithms | C++ | [Citizens Supermarkets](/citizens-supermarkets) |
 | 2 | Human-Computer Interaction | Figma | [Urban Mobility App](/urban-mobility-app) |
 | 2 | Human-Computer Interaction | Processing | [Target Selection](/target-selection) |
 | 2 | Human-Computer Interaction | Processing | [Smartwatch Text Entry](/smartwatch-text-entry) |
