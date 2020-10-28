@@ -1,2 +1,0 @@
-# Example of a `.gitattributes` file which reclassifies `.as` files as Assembly:
-*.as linguist-language=Assembly
