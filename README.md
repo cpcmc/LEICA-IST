@@ -9,7 +9,7 @@
 | 1 | Introduction to Algorithms and Data Structures | C | [Room Booking System](/room-booking-system) |
 | 1 | Introduction to Algorithms and Data Structures | C | [Contact Manager System](/contact-manager-system) |
 | 2 | Object-Oriented Programming | Java | [Library Manager](/library-manager) |
-| 2 | Operating Systems | C | [Técnico File System](/tecnico-fs) |
+| 2 | Operating Systems | C | [Técnico File System](/tecnico-file-system) |
 | 2 | Theory of Computation | Turing Machine | [Universal Turing Machine](/universal-turing-machine) |
 | 2 | Analysis and Synthesis of Algorithms | C | [Grades Predictor](/grades-predictor) |
 | 2 | Analysis and Synthesis of Algorithms | C++ | [Citizens Supermarkets](/citizens-supermarkets) |
