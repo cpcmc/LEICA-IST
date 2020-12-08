@@ -1,4 +1,4 @@
-# 1st Year
+### 1st Year
 | Subject                                        | Language                     |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Foundations of Programming                     | Python                       | [Hello Quantum](/hello-quantum)                       |
@@ -7,7 +7,9 @@
 | Introduction to Algorithms and Data Structures | C                            | [Room Booking System](/room-booking-system)           |
 | Introduction to Algorithms and Data Structures | C                            | [Contact Manager System](/contact-manager-system)     |
 
-# 2nd Year
+<br/>
+
+### 2nd Year
 | Subject                                        | Language                     |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Object-Oriented Programming                    | Java                         | [Library Manager](/library-manager)                   |
@@ -19,7 +21,9 @@
 | Human-Computer Interaction                     | Processing                   | [Target Selection](/target-selection)                 |
 | Human-Computer Interaction                     | Processing                   | [Smartwatch Text Entry](/smartwatch-text-entry)       |
 
-# 3rd Year
+<br/>
+
+### 3rd Year
 | Subject                                        | Language                     |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Computer Graphics                              | THREE.js/HTML                | [Mobile](/mobile)                                     |
