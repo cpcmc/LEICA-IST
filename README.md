@@ -1,18 +1,35 @@
 # Computer Science and Engineering @ IST
 ## Cristiano Clemente
 
-| Year | Subject                                        | Language       |  Name                                                 |
-| ---- | ---------------------------------------------- | -------------- | ----------------------------------------------------- |
-| 1    | Foundations of Programming                     | Python         | [Hello Quantum](/hello-quantum)                       |
-| 1    | Introduction to Computer Architecture          | P3 Assembly    | [Gorillas](/gorillas)                                 |
-| 1    | Logic for Programming                          | Prolog         | [Binary Puzzle Solver](/binary-puzzle-solver)         |
-| 1    | Introduction to Algorithms and Data Structures | C              | [Room Booking System](/room-booking-system)           |
-| 1    | Introduction to Algorithms and Data Structures | C              | [Contact Manager System](/contact-manager-system)     |
-| 2    | Object-Oriented Programming                    | Java           | [Library Manager](/library-manager)                   |
-| 2    | Operating Systems                              | C              | [Técnico File System](/tecnico-file-system)           |
-| 2    | Theory of Computation                          | Turing Machine | [Universal Turing Machine](/universal-turing-machine) |
-| 2    | Analysis and Synthesis of Algorithms           | C              | [Grades Predictor](/grades-predictor)                 |
-| 2    | Analysis and Synthesis of Algorithms           | C++            | [Citizens Supermarkets](/citizens-supermarkets)       |
-| 2    | Human-Computer Interaction                     | Figma          | [Urban Mobility App](/urban-mobility-app)             |
-| 2    | Human-Computer Interaction                     | Processing     | [Target Selection](/target-selection)                 |
-| 2    | Human-Computer Interaction                     | Processing     | [Smartwatch Text Entry](/smartwatch-text-entry)       |
+### Year: 1
+| Subject                                        | Language                     |  Name                                                 |
+| ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| Foundations of Programming                     | Python                       | [Hello Quantum](/hello-quantum)                       |
+| Introduction to Computer Architecture          | P3 Assembly                  | [Gorillas](/gorillas)                                 |
+| Logic for Programming                          | Prolog                       | [Binary Puzzle Solver](/binary-puzzle-solver)         |
+| Introduction to Algorithms and Data Structures | C                            | [Room Booking System](/room-booking-system)           |
+| Introduction to Algorithms and Data Structures | C                            | [Contact Manager System](/contact-manager-system)     |
+
+### Year: 2
+| Subject                                        | Language                     |  Name                                                 |
+| ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| Object-Oriented Programming                    | Java                         | [Library Manager](/library-manager)                   |
+| Operating Systems                              | C                            | [Técnico File System](/tecnico-file-system)           |
+| Theory of Computation                          | Turing Machine               | [Universal Turing Machine](/universal-turing-machine) |
+| Analysis and Synthesis of Algorithms           | C                            | [Grades Predictor](/grades-predictor)                 |
+| Analysis and Synthesis of Algorithms           | C++                          | [Citizens Supermarkets](/citizens-supermarkets)       |
+| Human-Computer Interaction                     | Figma                        | [Urban Mobility App](/urban-mobility-app)             |
+| Human-Computer Interaction                     | Processing                   | [Target Selection](/target-selection)                 |
+| Human-Computer Interaction                     | Processing                   | [Smartwatch Text Entry](/smartwatch-text-entry)       |
+
+### Year: 3
+| Subject                                        | Language                     |  Name                                                 |
+| ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
+| Computer Graphics                              | THREE.js/HTML                | [Mobile](/mobile)                                     |
+| Computer Graphics                              | THREE.js/HTML                | [Pool Table](/pool-table)                             |
+| Computer Graphics                              | THREE.js/HTML                | [Cybertruck](/cybertruck)                             |
+| Computer Graphics                              | THREE.js/HTML                | [Golf Scene](/golf-scene)                             |
+| Databases                                      | PostgreSQL/Python Flask/HTML | [Odisseia](/odisseia)                                 |
+| Computer Networks                              | C                            | [2FA](/two-factor-authentication)                     |
+| Artificial Intelligence                        | Python                       | [Ricochet Robots](/ricochet-robots)                   |
+| Artificial Intelligence                        | Python                       | [Decision Tree Learning](/decision-tree-learning)     |
