@@ -1,2 +1,2 @@
 ### Objective
-![Hello Quantum](/hello-quantum.jpg)
+<img src="hello-quantum.jpg" width="auto" height="500px">
