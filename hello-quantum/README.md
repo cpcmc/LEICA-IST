@@ -1,8 +1,9 @@
 <h1 align="center">Hello Quantum<h1>
-<p align="center">
+<div align="center">
   <img align="center" height="500px" src="hello-quantum.jpg">
-</p>
-
-## Features
-- a
-- b
+</div>
+<h1>Features<h1>
+  <ul>
+    <li>a</li>
+    <li>b</li>
+  </ul>
