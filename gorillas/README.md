@@ -1,5 +1,5 @@
 # Gorillas
-![](/imgs/gorillas1.jpg)
-![](/imgs/gorillas2.jpg)
-![](/imgs/gorillas3.jpg)
-![](/imgs/gorillas4.jpg)
+![](imgs/gorillas1.png)
+![](imgs/gorillas2.png)
+![](imgs/gorillas3.png)
+![](imgs/gorillas4.png)
