@@ -18,18 +18,18 @@
 | Analysis and Synthesis of Algorithms           | C                            | [Grades Predictor](/grades-predictor)                 |
 | Analysis and Synthesis of Algorithms           | C++                          | [Citizens Supermarkets](/citizens-supermarkets)       |
 | Human-Computer Interaction                     | Figma                        | [Urban Mobility App](/urban-mobility-app)             |
-| Human-Computer Interaction                     | Processing                   | [Target Selection](/target-selection)                 |
-| Human-Computer Interaction                     | Processing                   | [Smartwatch Text Entry](/smartwatch-text-entry)       |
+| Human-Computer Interaction                     | Processing 3                 | [Target Selection](/target-selection)                 |
+| Human-Computer Interaction                     | Processing 3                 | [Smartwatch Text Entry](/smartwatch-text-entry)       |
 
 <br/>
 
 ### 3rd Year
 | Subject                                        | Language                     |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
-| Computer Graphics                              | THREE.js/HTML                | [Mobile](/mobile)                                     |
-| Computer Graphics                              | THREE.js/HTML                | [Pool Table](/pool-table)                             |
-| Computer Graphics                              | THREE.js/HTML                | [Cybertruck](/cybertruck)                             |
-| Computer Graphics                              | THREE.js/HTML                | [Golf Scene](/golf-scene)                             |
+| Computer Graphics                              | THREE.js/HTML5               | [Mobile](/mobile)                                     |
+| Computer Graphics                              | THREE.js/HTML5               | [Pool Table](/pool-table)                             |
+| Computer Graphics                              | THREE.js/HTML5               | [Cybertruck](/cybertruck)                             |
+| Computer Graphics                              | THREE.js/HTML5               | [Golf Scene](/golf-scene)                             |
 | Databases                                      | PostgreSQL/Python Flask/HTML | [Odisseia](/odisseia)                                 |
 | Computer Networks                              | C                            | [2FA](/two-factor-authentication)                     |
 | Artificial Intelligence                        | Python                       | [Ricochet Robots](/ricochet-robots)                   |
