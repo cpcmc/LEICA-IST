@@ -18,8 +18,8 @@
 | Analysis and Synthesis of Algorithms           | C                            | [Grades Predictor](/grades-predictor)                 |
 | Analysis and Synthesis of Algorithms           | C++                          | [Citizens Supermarkets](/citizens-supermarkets)       |
 | Human-Computer Interaction                     | Figma                        | [Urban Mobility App](/urban-mobility-app)             |
-| Human-Computer Interaction                     | Processing3                  | [Target Selection](/target-selection)                 |
-| Human-Computer Interaction                     | Processing3                  | [Smartwatch Text Entry](/smartwatch-text-entry)       |
+| Human-Computer Interaction                     | Processing 3                 | [Target Selection](/target-selection)                 |
+| Human-Computer Interaction                     | Processing 3                 | [Smartwatch Text Entry](/smartwatch-text-entry)       |
 
 <br/>
 
