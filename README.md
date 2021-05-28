@@ -1,5 +1,5 @@
 ### 1st Year
-| Subject                                        | Language                     |  Name                                                 |
+| Subject                                        | Language(s)                  |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Foundations of Programming                     | Python                       | [Hello Quantum](/hello-quantum)                       |
 | Introduction to Computer Architecture          | P3 Assembly                  | [Gorillas](/gorillas)                                 |
@@ -10,7 +10,7 @@
 <br/>
 
 ### 2nd Year
-| Subject                                        | Language                     |  Name                                                 |
+| Subject                                        | Language(s)                  |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Object-Oriented Programming                    | Java                         | [Library Manager](/library-manager)                   |
 | Operating Systems                              | C                            | [Técnico File System](/tecnico-file-system)           |
@@ -24,7 +24,7 @@
 <br/>
 
 ### 3rd Year
-| Subject                                        | Language                     |  Name                                                 |
+| Subject                                        | Language(s)                  |  Name                                                 |
 | ---------------------------------------------- | ---------------------------- | ----------------------------------------------------- |
 | Computer Graphics                              | THREE.js/HTML5               | [Mobile](/mobile)                                     |
 | Computer Graphics                              | THREE.js/HTML5               | [Pool Table](/pool-table)                             |
@@ -33,4 +33,7 @@
 | Databases                                      | PostgreSQL/Python Flask/HTML | [Odisseia](/odisseia)                                 |
 | Computer Networks                              | C                            | [2FA](/two-factor-authentication)                     |
 | Artificial Intelligence                        | Python                       | [Ricochet Robots](/ricochet-robots)                   |
-| Artificial Intelligence                        | Python                       | [Decision Tree Learning](/decision-tree-learning)     |
+| Systems Analysis and Modeling                  | ArchiMate/BPMN/UML/SysML     | [SPX/SATX](/spx-satx)                                 |
+| Compilers                                      | C/C++                        | [FIR](/fir)                                           |
+| Software Engineering                           | PostgreSQL/Spring Boot/Vue   | [Quizzes Tutor](/quizzes-tutor)                       |
+| Distributed Systems                            | Java/gRPC                    | [Bicloin](/bicloin)                                   |
